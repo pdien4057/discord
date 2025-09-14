@@ -1,0 +1,22 @@
+{
+  "name": "my-project",
+  "version": "1.0.0",
+  "description": "A Node.js project using Puppeteer and other dependencies",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "cfonts": "^3.3.0",
+    "chalk": "^5.4.1",
+    "delay": "latest",
+    "fs": "^0.0.1-security",
+    "https-proxy-agent": "^7.0.6",
+    "node-fetch": "^3.3.2",
+    "readline-sync": "^1.4.10"
+  },
+  "engines": {
+    "node": ">=14.0.0"
+  }
+}
